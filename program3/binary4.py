@@ -34,3 +34,4 @@ root.left.right = Node('3')
 
 print("Expression: (2 + 3) * 4")
 print("Result:", evaluate(root))
+#
